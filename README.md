@@ -1,2 +1,2 @@
 # web-view-mobile-app
-web-view-mobile-app using dart
+web viewing mobile application with a navigation bar using dart
